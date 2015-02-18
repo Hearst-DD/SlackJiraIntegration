@@ -39,4 +39,4 @@ To set this up:
 	In the Jira Webhook, you can specify what events should send a message via Slack. You can reuse the URL from step 3)  (and you can modify the slack_channel and slack_user if desired). 
 	This allows you to target different Slack users and channels for different JIRA events. 
 
-******/
+
