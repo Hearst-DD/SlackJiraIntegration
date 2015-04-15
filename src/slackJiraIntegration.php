@@ -50,7 +50,7 @@ CONFIG
 $defaultSlackChannel = "htv_jira";
 
 #text that prints out at the beginning of each post to Slack
-$jiraUpdatedText = "JIRA ticket assigned to you has been created/modified. ". $lineBreak. $lineBreak;
+$jiraUpdatedText = "JIRA ticket assigned to you has been created/modified. ";
 
 #fully qualified path for your JIRA installation on the web, like: https://yourteam.atlassian.net/browse/
 $jiraIssuesPath = "https://yourteam.atlassian.net/browse/";
